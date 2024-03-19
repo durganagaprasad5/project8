@@ -1,0 +1,23 @@
+body{
+    background: white;
+}
+
+img{
+    height: 350px;
+    width: 250px;
+    margin-left: 585px;
+    margin-top: 59px;
+}
+input[type="submit"]{
+    height: 100px;
+    width: 50px;
+    background: black;
+    color: antiquewhite;
+}
+div{
+    margin-left: 655px;
+    margin-top: 50px;
+}
+h1{
+    margin-left: 625px;
+}
